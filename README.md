@@ -1,2 +1,4 @@
 # bomberman
-Bomberman in C++ for school made in two weeks
+Bomberman in C++ with Irrlicht for school made in two weeks
+
+Make install and Make
